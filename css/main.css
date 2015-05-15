@@ -871,23 +871,23 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 1060px;
+  width: 960px;
 }
 .one-column .header-inner {
-  width: 800px;
+  width: 900px;
 }
 .main {
   padding-bottom: 150px;
 }
 .main-inner {
   margin: 0 auto;
-  width: 1060px;
+  width: 960px;
 }
 .one-column .main-inner {
-  width: 800px;
+  width: 900px;
 }
 .main-inner .content {
-  width: 800px;
+  width: 900px;
 }
 .footer {
   position: absolute;
@@ -898,10 +898,10 @@ body {
 }
 .footer-inner {
   margin: 20px auto;
-  width: 1060px;
+  width: 960px;
 }
 .one-column .footer-inner {
-  width: 800px;
+  width: 900px;
 }
 .headband {
   height: 3px;
@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e8189f;
+  background: #8f3dec;
 }
 .sidebar-nav {
   margin: 0;
