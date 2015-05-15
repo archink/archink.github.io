@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffaa50;
+  background: #98e9ff;
 }
 .sidebar-nav {
   margin: 0;
@@ -1984,7 +1984,7 @@ li {
   display: none;
 }
 .site-meta .site-title {
-  font-size: 24px;
+  font-size: 36px;
   font-weight: bolder;
 }
 @media (max-width: 767px) {
