@@ -871,7 +871,7 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 960px;
+  width: 1060px;
 }
 .one-column .header-inner {
   width: 800px;
@@ -881,7 +881,7 @@ body {
 }
 .main-inner {
   margin: 0 auto;
-  width: 960px;
+  width: 1060px;
 }
 .one-column .main-inner {
   width: 800px;
@@ -898,7 +898,7 @@ body {
 }
 .footer-inner {
   margin: 20px auto;
-  width: 960px;
+  width: 1060px;
 }
 .one-column .footer-inner {
   width: 800px;
@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8e69ff;
+  background: #e8189f;
 }
 .sidebar-nav {
   margin: 0;
