@@ -529,7 +529,7 @@ td {
   -moz-osx-font-smoothing: grayscale;
 }
 .icon-logo {
-  font-size: 40px;
+  font-size: 24px;
   color: #fff;
 }
 .icon-home,
@@ -538,7 +538,7 @@ td {
 .icon-tags,
 .icon-about,
 .icon-feed {
-  font-size: 24px;
+  font-size: 40px;
   color: #000;
 }
 .icon-external-link {
@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #30ffff;
+  background: #7d55ff;
 }
 .sidebar-nav {
   margin: 0;
