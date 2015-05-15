@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #98e9ff;
+  background: #d47c99;
 }
 .sidebar-nav {
   margin: 0;
@@ -1998,7 +1998,7 @@ li {
   display: block;
   overflow: hidden;
   margin: 0 auto;
-  width: 75%;
+  width: 100%;
 }
 @media (max-width: 767px) {
   .logo-line-before,
