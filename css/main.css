@@ -214,51 +214,51 @@ h6 {
   font-family: Cambria, Georgia, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", "Times New Roman", serif;
 }
 h1 {
-  font-size: 34px;
+  font-size: 58px;
 }
 @media (max-width: 767px) {
   h1 {
-    font-size: 30px;
+    font-size: 54px;
   }
 }
 h2 {
-  font-size: 32px;
+  font-size: 56px;
 }
 @media (max-width: 767px) {
   h2 {
-    font-size: 28px;
+    font-size: 52px;
   }
 }
 h3 {
-  font-size: 30px;
+  font-size: 54px;
 }
 @media (max-width: 767px) {
   h3 {
-    font-size: 26px;
+    font-size: 50px;
   }
 }
 h4 {
-  font-size: 28px;
+  font-size: 52px;
 }
 @media (max-width: 767px) {
   h4 {
-    font-size: 24px;
+    font-size: 48px;
   }
 }
 h5 {
-  font-size: 26px;
+  font-size: 50px;
 }
 @media (max-width: 767px) {
   h5 {
-    font-size: 22px;
+    font-size: 46px;
   }
 }
 h6 {
-  font-size: 24px;
+  font-size: 48px;
 }
 @media (max-width: 767px) {
   h6 {
-    font-size: 20px;
+    font-size: 44px;
   }
 }
 p {
@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #304dff;
+  background: #6ab5d1;
 }
 .sidebar-nav {
   margin: 0;
